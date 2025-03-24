@@ -1,6 +1,23 @@
 <template>
   <div>
-    <h1>문의하기</h1>
-    <h3>문의 내용을 입력하세요.</h3>
+    <h1>Contact Us</h1>
+    <h3>"Please enter your inquiry."</h3>
   </div>
 </template>
+
+<style scoped>
+* {
+  color: #fff;
+}
+
+h1 {
+  margin-top: 30px;
+  text-align: center;
+}
+
+h3 {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 60px;
+}
+</style>
